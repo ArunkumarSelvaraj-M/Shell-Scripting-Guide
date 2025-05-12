@@ -31,7 +31,7 @@ This repository contains a comprehensive shell script that demonstrates a range 
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Beginner-to-Advanced-Shell-Script-Example.git
+git clone https://github.com/ArunkumarSelvaraj-M/Shell-Scripting-Guide.git
 ```
 
 ### 2. Navigate to the Repository
@@ -39,7 +39,7 @@ git clone https://github.com/YOUR_USERNAME/Beginner-to-Advanced-Shell-Script-Exa
 Change to the directory containing the script:
 
 ```bash
-cd Beginner-to-Advanced-Shell-Script-Example
+cd Shell-Scripting-Guide
 ```
 
 ### 3. Make the Script Executable
